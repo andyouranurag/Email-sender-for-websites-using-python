@@ -14,4 +14,5 @@ Generate the password and copy it.
 ***
 
 server.sendmail('receiver email','hello')
+
 print('mail sent')
